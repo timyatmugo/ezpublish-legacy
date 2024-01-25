@@ -1,6 +1,6 @@
 {
-    "name":        "mugoweb/ezpublish-legacy",
-    "description": "eZ Publish Legacy Stack (4.x), fork maintained by Mugo Web",
+    "name":        "timyatmugo/ezpublish-legacy",
+    "description": "Test - eZ Publish Legacy Stack (4.x), fork maintained by Mugo Web",
     "homepage":    "https://www.mugo.ca",
     "license":     "GPL-2.0",
     "type":        "ezpublish-legacy",
